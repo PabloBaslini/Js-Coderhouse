@@ -1,2 +1,2 @@
 # Js-Coderhouse
-Repo de las clases
+Repo de las clases de js
